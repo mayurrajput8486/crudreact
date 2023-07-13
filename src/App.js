@@ -8,7 +8,7 @@ import EmployeeList from './components/EmployeeList';
 function App() {
   return (
     <div className='App'>
-      <h1>React Crud</h1>
+      <h1>React Crud Project</h1>
       {/* <EmpCreate />
       <EmployeeList /> */}
       <BrowserRouter>
